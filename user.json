@@ -1,0 +1,41 @@
+{
+    "user1" : {
+       "name" : "Bhakti",
+       "password" : "password1",
+       "profession" : "teacher",
+       "books": {
+          "1":"Alchemist",
+          "2":"Harry Potter",
+          "3":"Great Gatsby"
+
+       },  
+       
+       "id": 1
+    },
+    
+    "user2" : {
+       "name" : "Rudra",
+       "password" : "password2",
+       "profession" : "librarian",
+       "books": {
+         "1":"Hamlet",
+         "2":"Sachin:Billion Dreams",
+         "3":"Champion's Mind"
+       },
+
+       "id": 2
+    },
+    
+    "user3" : {
+       "name" : "Steve",
+       "password" : "password3",
+       "profession" : "clerk",
+       "books": {
+         "1":"War and Peace",
+         "2":"To kill a Mockingbird",
+         "3":"Invisible Man"
+       },
+
+       "id": 3
+    }
+ }
